@@ -1,2 +1,2 @@
-# Spacenet + Massachusetts Model
-# Spacenet + Massachusetts Roads Model
+# THIS CODEBASE IS OUTDATED AT THE MOMENT.
+## THIS REPOSITORY WILL NOT BE UPDATED IN THE FUTURE
